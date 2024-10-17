@@ -7,3 +7,7 @@ Key features:<br>
 -Worker can easily get insight of the situation by using the industry's application.<br>
 -People can communicate with the help of application and report the danger too.<br>
 -Easy to sign up for employee.<br>
+
+Inside PPT: <br>
+SIH1505: PowerPoint Presentation which got us selected. <br>
+SIH FINAL PRESENTATION TEAM - THE EPIC: PowerPoint Presentation which made use Smart India Hackathon 2023 Software Edition Winner <br>
